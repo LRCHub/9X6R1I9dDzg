@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bloody Mosquito",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T08:06:01.837932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Mosquito",
+      "artist": "PeanutsKun",
+      "has_synced": false,
+      "path": "select/01_Bloody_Mosquito_PeanutsKun.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloody Mosquito",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Bloody_Mosquito_ピーナッツくん.txt"
+    }
+  ]
+}
